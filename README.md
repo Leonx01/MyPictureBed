@@ -1,2 +1,2 @@
 # PhotoBed
-###Photobed for My Blog
+### Photobed for My Blog
